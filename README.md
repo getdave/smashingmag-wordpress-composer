@@ -1,0 +1,2 @@
+smashingmag-wordpress-composer
+==============================
