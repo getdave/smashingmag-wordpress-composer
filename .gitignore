@@ -11,6 +11,13 @@ Thumbs.db
 .htaccess
 
 
+############################
+# Ignore unwanted WP files #
+############################
+
+content/upgrade/
+
+
 ###################################
 # Ignore Sensitive Tutorial files #
 ###################################

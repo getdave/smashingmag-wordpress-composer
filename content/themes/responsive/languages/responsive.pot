@@ -1,0 +1,834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-06 08:51+0100\n"
+"PO-Revision-Date: 2013-07-06 08:51+0100\n"
+"Last-Translator: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:44 blog-excerpt.php:63 blog.php:65
+#: content-sidebar-half-page.php:40 content-sidebar-page.php:40
+#: full-width-page.php:40 home.php:46 image.php:50 index.php:42
+#: landing-page.php:38 page.php:39 search.php:39
+#: sidebar-content-half-page.php:56 sidebar-content-page.php:56 single.php:50
+#: sitemap.php:60
+msgid "Pages:"
+msgstr ""
+
+#: blog-excerpt.php:78 blog.php:80 loop-nav.php:27
+msgid "&#8249; Older posts"
+msgstr ""
+
+#: blog-excerpt.php:79 blog.php:81 loop-nav.php:28
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#: blog.php:64 content-sidebar-half-page.php:39 content-sidebar-page.php:39
+#: full-width-page.php:39 home.php:45 image.php:49 index.php:41
+#: landing-page.php:37 page.php:38 sidebar-content-half-page.php:55
+#: sidebar-content-page.php:55 single.php:38 core/includes/functions.php:400
+msgid "Read more &#8250;"
+msgstr ""
+
+#: comments.php:22
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:29
+#, fuzzy, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr "One comment on &ldquo;%2$s&rdquo;"
+
+#: comments.php:36 comments.php:47
+msgid "&#8249; Older comments"
+msgstr ""
+
+#: comments.php:37 comments.php:48
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#: comments.php:59
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#: comments.php:75
+msgid "Name"
+msgstr ""
+
+#: comments.php:77
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:79
+msgid "Website"
+msgstr ""
+
+#: footer.php:115
+msgid "&copy;"
+msgstr ""
+
+#: footer.php:120
+msgid "scroll to top"
+msgstr ""
+
+#: footer.php:120
+msgid "&uarr;"
+msgstr ""
+
+#: footer.php:123
+msgid "http://themeid.com/responsive-theme/"
+msgstr ""
+
+#: footer.php:123
+msgid "Responsive Theme"
+msgstr ""
+
+#: footer.php:125
+msgid "powered by"
+msgstr ""
+
+#: footer.php:125
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:125
+msgid "WordPress"
+msgstr ""
+
+#: front-page.php:60 core/includes/theme-options.php:225
+msgid "Hello, World!"
+msgstr ""
+
+#: front-page.php:69 core/includes/theme-options.php:236
+msgid "Your H2 subheadline here"
+msgstr ""
+
+#: front-page.php:78 core/includes/theme-options.php:247
+msgid ""
+"Your title, subtitle and this very content is editable from Theme Option. "
+"Call to Action button and its destination link as well. Image on your right "
+"can be an image or even YouTube video if you like."
+msgstr ""
+
+#: front-page.php:91 core/includes/theme-options.php:269
+msgid "Call to Action"
+msgstr ""
+
+#: image.php:33
+msgid "&#8249; Return to"
+msgstr ""
+
+#: image.php:41 post-meta-page.php:30 post-meta.php:34
+#: sidebar-content-half-page.php:48 sidebar-content-page.php:48
+msgid "No Comments &darr;"
+msgstr ""
+
+#: image.php:41 post-meta-page.php:30 post-meta.php:34
+#: sidebar-content-half-page.php:48 sidebar-content-page.php:48
+msgid "1 Comment &darr;"
+msgstr ""
+
+#: image.php:41 post-meta-page.php:30 post-meta.php:34
+#: sidebar-content-half-page.php:48 sidebar-content-page.php:48
+msgid "% Comments &darr;"
+msgstr ""
+
+#: image.php:60 post-data.php:24 sidebar-content-half-page.php:61
+#: sidebar-content-page.php:61
+msgid "Tagged with:"
+msgstr ""
+
+#: image.php:61 post-data.php:25 sidebar-content-half-page.php:62
+#: sidebar-content-page.php:62
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: image.php:65 post-data.php:30 sidebar-content-half-page.php:66
+#: sidebar-content-page.php:66 sitemap.php:63
+msgid "Edit"
+msgstr ""
+
+#: loop-header.php:42
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: loop-header.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: loop-header.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: loop-header.php:48
+msgid "Blog Archives"
+msgstr ""
+
+#: loop-no-posts.php:24
+#, php-format
+msgid "Your search for %s did not match any entries."
+msgstr ""
+
+#: loop-no-posts.php:24
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr ""
+
+#: loop-no-posts.php:29
+msgid ""
+"Don&#39;t panic, we&#39;ll get through this together. Let&#39;s explore our "
+"options here."
+msgstr ""
+
+#: loop-no-posts.php:32
+#, php-format
+msgid "You can return %s or search for the page you were looking for."
+msgstr ""
+
+#: loop-no-posts.php:35 core/includes/functions.php:495
+msgid "Home"
+msgstr ""
+
+#: loop-no-posts.php:36
+msgid "&larr; Home"
+msgstr ""
+
+#: search.php:27 core/includes/functions.php:497
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:22
+msgid "search here &hellip;"
+msgstr ""
+
+#: searchform.php:23
+msgid "Go"
+msgstr ""
+
+#: sidebar-gallery.php:26
+msgid "Image Information"
+msgstr ""
+
+#: sidebar-gallery.php:33
+msgid "Full Size:"
+msgstr ""
+
+#: sidebar-gallery.php:39
+msgid "Aperture: f&#47;"
+msgstr ""
+
+#: sidebar-gallery.php:43
+msgid "Focal Length:"
+msgstr ""
+
+#: sidebar-gallery.php:43
+msgid "mm"
+msgstr ""
+
+#: sidebar-gallery.php:47
+msgid "ISO:"
+msgstr ""
+
+#: sidebar-gallery.php:51
+msgid "Shutter:"
+msgstr ""
+
+#: sidebar-gallery.php:68
+msgid "Camera:"
+msgstr ""
+
+#: sidebar-half-left.php:28 sidebar-left-half.php:28 sidebar-left.php:28
+#: sidebar-right-half.php:28 sidebar-right.php:28 sidebar.php:36
+msgid "In Archive"
+msgstr ""
+
+#: sidebar-home.php:29 core/includes/functions.php:802
+msgid "Home Widget 1"
+msgstr ""
+
+#: sidebar-home.php:30
+msgid ""
+"This is your first home widget box. To edit please go to Appearance > "
+"Widgets and choose 6th widget from the top in area 6 called Home Widget 1. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+#: sidebar-home.php:44 core/includes/functions.php:812
+msgid "Home Widget 2"
+msgstr ""
+
+#: sidebar-home.php:45
+msgid ""
+"This is your second home widget box. To edit please go to Appearance > "
+"Widgets and choose 7th widget from the top in area 7 called Home Widget 2. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+#: sidebar-home.php:59 core/includes/functions.php:822
+msgid "Home Widget 3"
+msgstr ""
+
+#: sidebar-home.php:60
+msgid ""
+"This is your third home widget box. To edit please go to Appearance > "
+"Widgets and choose 8th widget from the top in area 8 called Home Widget 3. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+#: single.php:44
+msgid "About"
+msgstr ""
+
+#: sitemap.php:39
+msgid "Categories"
+msgstr ""
+
+#: sitemap.php:44
+msgid "Latest Posts"
+msgstr ""
+
+#: sitemap.php:48
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: sitemap.php:55
+msgid "Pages"
+msgstr ""
+
+#: core/includes/functions.php:145
+msgid "Top Menu"
+msgstr ""
+
+#: core/includes/functions.php:146
+msgid "Header Menu"
+msgstr ""
+
+#: core/includes/functions.php:147
+msgid "Sub-Header Menu"
+msgstr ""
+
+#: core/includes/functions.php:148
+msgid "Footer Menu"
+msgstr ""
+
+#: core/includes/functions.php:346 core/includes/functions.php:621
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/includes/functions.php:453
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>"
+"%4$s"
+msgstr ""
+
+#: core/includes/functions.php:463 core/includes/functions.php:499
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: core/includes/functions.php:496
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: core/includes/functions.php:498
+#, php-format
+msgid "Posts tagged %s"
+msgstr ""
+
+#: core/includes/functions.php:500
+msgid "Error 404"
+msgstr ""
+
+#: core/includes/functions.php:685
+#, php-format
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+
+#: core/includes/functions.php:724 core/includes/functions.php:725
+msgid "Instructions"
+msgstr ""
+
+#: core/includes/functions.php:727 core/includes/functions.php:728
+msgid "Help"
+msgstr ""
+
+#: core/includes/functions.php:730 core/includes/functions.php:731
+msgid "Translate"
+msgstr ""
+
+#: core/includes/functions.php:733 core/includes/functions.php:734
+msgid "Showcase"
+msgstr ""
+
+#: core/includes/functions.php:736 core/includes/functions.php:737
+msgid "More Themes"
+msgstr ""
+
+#: core/includes/functions.php:752
+msgid "Main Sidebar"
+msgstr ""
+
+#: core/includes/functions.php:753
+msgid "Area 1 - sidebar.php"
+msgstr ""
+
+#: core/includes/functions.php:762
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/includes/functions.php:763
+msgid "Area 2 - sidebar-right.php"
+msgstr ""
+
+#: core/includes/functions.php:772
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/includes/functions.php:773
+msgid "Area 3 - sidebar-left.php"
+msgstr ""
+
+#: core/includes/functions.php:782
+msgid "Left Sidebar Half Page"
+msgstr ""
+
+#: core/includes/functions.php:783
+msgid "Area 4 - sidebar-left-half.php"
+msgstr ""
+
+#: core/includes/functions.php:792
+msgid "Right Sidebar Half Page"
+msgstr ""
+
+#: core/includes/functions.php:793
+msgid "Area 5 - sidebar-right-half.php"
+msgstr ""
+
+#: core/includes/functions.php:803
+msgid "Area 6 - sidebar-home.php"
+msgstr ""
+
+#: core/includes/functions.php:813
+msgid "Area 7 - sidebar-home.php"
+msgstr ""
+
+#: core/includes/functions.php:823
+msgid "Area 8 - sidebar-home.php"
+msgstr ""
+
+#: core/includes/functions.php:832
+msgid "Gallery Sidebar"
+msgstr ""
+
+#: core/includes/functions.php:833
+msgid "Area 9 - sidebar-gallery.php"
+msgstr ""
+
+#: core/includes/functions.php:842
+msgid "Colophon Widget"
+msgstr ""
+
+#: core/includes/functions.php:843
+msgid "Area 10 - sidebar-colophon.php"
+msgstr ""
+
+#: core/includes/functions.php:852
+msgid "Top Widget"
+msgstr ""
+
+#: core/includes/functions.php:853
+msgid "Area 11 - sidebar-top.php"
+msgstr ""
+
+#: blog.php
+msgid "Blog (full posts)"
+msgstr ""
+
+#: blog-excerpt.php
+msgid "Blog Excerpt (summary)"
+msgstr ""
+
+#: content-sidebar-page.php
+#: core/includes/post-custom-meta.php:147
+msgid "Content/Sidebar"
+msgstr ""
+
+#: sidebar-content-page.php
+#: core/includes/post-custom-meta.php:148
+msgid "Sidebar/Content"
+msgstr ""
+
+#: content-sidebar-half-page.php
+#: core/includes/post-custom-meta.php:149
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+#: sidebar-content-half-page.php
+#: core/includes/post-custom-meta.php:150
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+#: full-width-page.php
+#: core/includes/post-custom-meta.php:151
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+#: landing-page.php
+msgid "Landing Page (no menu)"
+msgstr ""
+
+#: sitemap.php
+msgid "Sitemap"
+msgstr ""
+
+#: core/includes/post-custom-meta.php:170
+msgid "Layout"
+msgstr ""
+
+#: core/includes/post-custom-meta.php:204
+msgid "Default"
+msgstr ""
+
+#: core/includes/theme-options.php:43 core/includes/theme-options.php:138
+msgid "Theme Options"
+msgstr ""
+
+#: core/includes/theme-options.php:142
+msgid "Options Saved"
+msgstr ""
+
+#: core/includes/theme-options.php:153
+msgid "Theme Elements"
+msgstr ""
+
+#: core/includes/theme-options.php:162
+msgid "Disable Breadcrumb Lists?"
+msgstr ""
+
+#: core/includes/theme-options.php:165 core/includes/theme-options.php:176
+msgid "Check to disable"
+msgstr ""
+
+#: core/includes/theme-options.php:173
+msgid "Disable Call to Action Button?"
+msgstr ""
+
+#: core/includes/theme-options.php:178 core/includes/theme-options.php:287
+#: core/includes/theme-options.php:356 core/includes/theme-options.php:416
+#: core/includes/theme-options.php:505 core/includes/theme-options.php:533
+#: core/includes/theme-options.php:566
+msgid "Save Options"
+msgstr ""
+
+#: core/includes/theme-options.php:179 core/includes/theme-options.php:288
+#: core/includes/theme-options.php:357 core/includes/theme-options.php:417
+#: core/includes/theme-options.php:506 core/includes/theme-options.php:534
+#: core/includes/theme-options.php:567
+msgid "Restore Defaults"
+msgstr ""
+
+#: core/includes/theme-options.php:187
+msgid "Logo Upload"
+msgstr ""
+
+#: core/includes/theme-options.php:195
+msgid "Custom Header"
+msgstr ""
+
+#: core/includes/theme-options.php:198
+msgid "Need to replace or remove default logo?"
+msgstr ""
+
+#: core/includes/theme-options.php:198
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: core/includes/theme-options.php:205
+msgid "Home Page"
+msgstr ""
+
+#: core/includes/theme-options.php:213
+msgid "Enable Custom Front Page"
+msgstr ""
+
+#: core/includes/theme-options.php:216
+#, php-format
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+#: core/includes/theme-options.php:223
+msgid "Headline"
+msgstr ""
+
+#: core/includes/theme-options.php:226
+msgid "Enter your headline"
+msgstr ""
+
+#: core/includes/theme-options.php:234
+msgid "Subheadline"
+msgstr ""
+
+#: core/includes/theme-options.php:237
+msgid "Enter your subheadline"
+msgstr ""
+
+#: core/includes/theme-options.php:245
+msgid "Content Area"
+msgstr ""
+
+#: core/includes/theme-options.php:248
+msgid "Enter your content"
+msgstr ""
+
+#: core/includes/theme-options.php:256
+msgid "Call to Action (URL)"
+msgstr ""
+
+#: core/includes/theme-options.php:259
+msgid "Enter your call to action URL"
+msgstr ""
+
+#: core/includes/theme-options.php:267
+msgid "Call to Action (Text)"
+msgstr ""
+
+#: core/includes/theme-options.php:270
+msgid "Enter your call to action text"
+msgstr ""
+
+#: core/includes/theme-options.php:279
+msgid "Featured Content"
+msgstr ""
+
+#: core/includes/theme-options.php:280 core/includes/theme-options.php:281
+msgid "See Docs"
+msgstr ""
+
+#: core/includes/theme-options.php:285
+msgid "Paste your shortcode, video or image source"
+msgstr ""
+
+#: core/includes/theme-options.php:296
+msgid "Default Layouts"
+msgstr ""
+
+#: core/includes/theme-options.php:305
+msgid "Default Static Page Layout"
+msgstr ""
+
+#: core/includes/theme-options.php:324
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+#: core/includes/theme-options.php:343
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+#: core/includes/theme-options.php:365
+msgid "Webmaster Tools"
+msgstr ""
+
+#: core/includes/theme-options.php:374
+msgid "Google Site Verification"
+msgstr ""
+
+#: core/includes/theme-options.php:377
+msgid "Enter your Google ID number only"
+msgstr ""
+
+#: core/includes/theme-options.php:385
+msgid "Bing Site Verification"
+msgstr ""
+
+#: core/includes/theme-options.php:388
+msgid "Enter your Bing ID number only"
+msgstr ""
+
+#: core/includes/theme-options.php:396
+msgid "Yahoo Site Verification"
+msgstr ""
+
+#: core/includes/theme-options.php:399
+msgid "Enter your Yahoo ID number only"
+msgstr ""
+
+#: core/includes/theme-options.php:408
+msgid "Site Statistics Tracker"
+msgstr ""
+
+#: core/includes/theme-options.php:409
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr ""
+
+#: core/includes/theme-options.php:414
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr ""
+
+#: core/includes/theme-options.php:425
+msgid "Social Icons"
+msgstr ""
+
+#: core/includes/theme-options.php:434
+msgid "Twitter"
+msgstr ""
+
+#: core/includes/theme-options.php:437
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: core/includes/theme-options.php:440
+msgid "Facebook"
+msgstr ""
+
+#: core/includes/theme-options.php:443
+msgid "Enter your Facebook URL"
+msgstr ""
+
+#: core/includes/theme-options.php:446
+msgid "LinkedIn"
+msgstr ""
+
+#: core/includes/theme-options.php:449
+msgid "Enter your LinkedIn URL"
+msgstr ""
+
+#: core/includes/theme-options.php:452
+msgid "YouTube"
+msgstr ""
+
+#: core/includes/theme-options.php:455
+msgid "Enter your YouTube URL"
+msgstr ""
+
+#: core/includes/theme-options.php:458
+msgid "StumbleUpon"
+msgstr ""
+
+#: core/includes/theme-options.php:461
+msgid "Enter your StumbleUpon URL"
+msgstr ""
+
+#: core/includes/theme-options.php:464
+msgid "RSS Feed"
+msgstr ""
+
+#: core/includes/theme-options.php:467
+msgid "Enter your RSS Feed URL"
+msgstr ""
+
+#: core/includes/theme-options.php:470
+msgid "Google+"
+msgstr ""
+
+#: core/includes/theme-options.php:473
+msgid "Enter your Google+ URL"
+msgstr ""
+
+#: core/includes/theme-options.php:476
+msgid "Instagram"
+msgstr ""
+
+#: core/includes/theme-options.php:479
+msgid "Enter your Instagram URL"
+msgstr ""
+
+#: core/includes/theme-options.php:482
+msgid "Pinterest"
+msgstr ""
+
+#: core/includes/theme-options.php:485
+msgid "Enter your Pinterest URL"
+msgstr ""
+
+#: core/includes/theme-options.php:488
+msgid "Yelp!"
+msgstr ""
+
+#: core/includes/theme-options.php:491
+msgid "Enter your Yelp! URL"
+msgstr ""
+
+#: core/includes/theme-options.php:494
+msgid "Vimeo"
+msgstr ""
+
+#: core/includes/theme-options.php:497
+msgid "Enter your Vimeo URL"
+msgstr ""
+
+#: core/includes/theme-options.php:500
+msgid "foursquare"
+msgstr ""
+
+#: core/includes/theme-options.php:503
+msgid "Enter your foursquare URL"
+msgstr ""
+
+#: core/includes/theme-options.php:514 core/includes/theme-options.php:524
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: core/includes/theme-options.php:525
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr ""
+
+#: core/includes/theme-options.php:525 core/includes/theme-options.php:526
+msgid "CSS Tutorial"
+msgstr ""
+
+#: core/includes/theme-options.php:531
+msgid "Enter your custom CSS styles."
+msgstr ""
+
+#: core/includes/theme-options.php:542
+msgid "Custom Scripts"
+msgstr ""
+
+#: core/includes/theme-options.php:552
+msgid "Custom Scripts for Header and Footer"
+msgstr ""
+
+#: core/includes/theme-options.php:553 core/includes/theme-options.php:554
+msgid "Quick Tutorial"
+msgstr ""
+
+#: core/includes/theme-options.php:558
+msgid "Embeds to header.php &darr;"
+msgstr ""
+
+#: core/includes/theme-options.php:560
+msgid "Enter your custom header script."
+msgstr ""
+
+#: core/includes/theme-options.php:562
+msgid "Embeds to footer.php &darr;"
+msgstr ""
+
+#: core/includes/theme-options.php:564
+msgid "Enter your custom footer script."
+msgstr ""
