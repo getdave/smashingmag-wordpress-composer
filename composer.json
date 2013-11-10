@@ -19,11 +19,33 @@
         {
             "type":"composer",
             "url":"http://wpackagist.org"
+        },
+        {
+            "type"   : "package",
+            "package": {
+                "name"   : "getdave/wordpress",
+                "type"   : "webroot",
+                "version": "3.7.1",
+                "dist"   : {
+                    "url" : "http://wordpress.org/wordpress-3.7.1.zip",
+                    "type": "zip"
+                },
+                "source" : {
+                    "url"  : "https://github.com/WordPress/WordPress",
+                    "type" : "git",
+                    "reference": "3.7.1"
+                },
+                "require" : {
+                  "fancyguy/webroot-installer": "1.0.0"
+                }
+            }
         }
     ],
     "extra": {
         "installer-paths": {
             "content/plugins/{$name}/": ["type:wordpress-plugin"]
-        }
+        },
+        "webroot-dir": "wp",
+        "webroot-package": "wordpress"
     }
 }
