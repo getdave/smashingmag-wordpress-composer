@@ -15,6 +15,7 @@ Thumbs.db
 # Ignore unwanted WP files #
 ############################
 
+wp/
 content/upgrade/
 content/plugins/
 
