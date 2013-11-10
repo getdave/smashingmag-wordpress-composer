@@ -10,7 +10,9 @@
     "require": {
         "wpackagist/advanced-custom-fields": "4.2.x",
         "wpackagist/posts-to-posts": "1.6.x",
-        "wpackagist/members": "0.2.x"
+        "wpackagist/members": "0.2.x",
+        "wordpress": "3.7.1",
+        "fancyguy/webroot-installer": "1.0.0"
     },
     "require-dev": {
         "wpackagist/debug-bar": "0.8.x"
@@ -23,7 +25,7 @@
         {
             "type"   : "package",
             "package": {
-                "name"   : "getdave/wordpress",
+                "name"   : "wordpress",
                 "type"   : "webroot",
                 "version": "3.7.1",
                 "dist"   : {
