@@ -1,0 +1,13 @@
+{
+    "name": "getdave/smashingmag-wordpress-composer",
+    "description": "An example WordPress project using Composer",
+    "authors": [
+        {
+            "name": "David",
+            "email": "getdavemail@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
