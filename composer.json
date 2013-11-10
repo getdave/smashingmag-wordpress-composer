@@ -8,6 +8,17 @@
         }
     ],
     "require": {
-
-    }
+        "wpackagist/advanced-custom-fields": "4.2.x",
+        "wpackagist/posts-to-posts": "1.6.x",
+        "wpackagist/members": "0.2.x"
+    },
+    "require-dev": {
+        "wpackagist/debug-bar": "0.8.x"
+    },
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"http://wpackagist.org"
+        }
+    ]
 }
