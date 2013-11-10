@@ -20,5 +20,10 @@
             "type":"composer",
             "url":"http://wpackagist.org"
         }
-    ]
+    ],
+    "extra": {
+        "installer-paths": {
+            "content/plugins/{$name}/": ["type:wordpress-plugin"]
+        }
+    }
 }
