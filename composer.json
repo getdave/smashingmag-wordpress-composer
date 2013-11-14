@@ -8,14 +8,14 @@
         }
     ],
     "require": {
-        "wpackagist/advanced-custom-fields": "4.2.x",
-        "wpackagist/posts-to-posts": "1.6.x",
-        "wpackagist/members": "0.2.x",
+        "wpackagist/advanced-custom-fields": "4.2.*",
+        "wpackagist/posts-to-posts": "1.6.*",
+        "wpackagist/members": "0.2.*",
         "wordpress": "3.7.1",
         "fancyguy/webroot-installer": "1.0.0"
     },
     "require-dev": {
-        "wpackagist/debug-bar": "0.8.x"
+        "wpackagist/debug-bar": "0.8.*"
     },
     "repositories":[
         {
